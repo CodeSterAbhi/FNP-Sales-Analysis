@@ -8,7 +8,7 @@ An interactive Excel dashboard on revenue, products, occasions, cities and deliv
 
 ![FNP dashboard](DashboardScreenshot.jpeg)
 
-**Quick links:** [Full report (PDF)](FNP_Sales_Report.pdf) · [Excel dashboard](FNPDashboard.xlsx) 
+**Quick links:** [Full report (PDF)](FNP_Sales_Report.pdf) · [Excel dashboard](FNP_Dashboard.xlsx) 
 
 ---
 
